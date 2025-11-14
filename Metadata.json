@@ -1,0 +1,5 @@
+{
+  "name": "CozinhaJCM",
+  "description": "Um aplicativo de receitas inteligente que sugere pratos com base nos ingredientes que você tem em casa ou permite pesquisar por nome. Faça login para obter listas de ingredientes, instruções passo a passo e tempos de preparo.",
+  "requestFramePermissions": []
+}
